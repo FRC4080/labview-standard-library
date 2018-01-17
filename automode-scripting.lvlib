@@ -29,12 +29,12 @@
 		<Item Name="auto_script_parser.vi" Type="VI" URL="../auto-mode-scripting/auto_script_parser.vi"/>
 		<Item Name="Build_footer_text.vi" Type="VI" URL="../auto-mode-scripting/Build_footer_text.vi"/>
 		<Item Name="check_command_type.vi" Type="VI" URL="../auto-mode-scripting/check_command_type.vi"/>
-		<Item Name="Close_all_notifiers.vi" Type="VI" URL="../auto-mode-scripting/Close_all_notifiers.vi"/>
+		<Item Name="Close_all_queues.vi" Type="VI" URL="../auto-mode-scripting/Close_all_queues.vi"/>
 		<Item Name="command_code_type.vi" Type="VI" URL="../auto-mode-scripting/command_code_type.vi"/>
 		<Item Name="Dummy_process_loops.vi" Type="VI" URL="../auto-mode-scripting/Dummy_process_loops.vi"/>
 		<Item Name="Footer_cluster.ctl" Type="VI" URL="../auto-mode-scripting/Footer_cluster.ctl"/>
-		<Item Name="g4_type.vi" Type="VI" URL="../auto-mode-scripting/g4_type.vi"/>
 		<Item Name="get _g4_time.vi" Type="VI" URL="../auto-mode-scripting/get _g4_time.vi"/>
+		<Item Name="get_g4_type.vi" Type="VI" URL="../auto-mode-scripting/get_g4_type.vi"/>
 		<Item Name="Get_process_notifications.vi" Type="VI" URL="../auto-mode-scripting/Get_process_notifications.vi"/>
 		<Item Name="Get_script_body.vi" Type="VI" URL="../auto-mode-scripting/Get_script_body.vi"/>
 		<Item Name="get_subsystem_queue.vi" Type="VI" URL="../auto-mode-scripting/get_subsystem_queue.vi"/>
