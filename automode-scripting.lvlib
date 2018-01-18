@@ -30,6 +30,7 @@
 		<Item Name="Build_footer_text.vi" Type="VI" URL="../auto-mode-scripting/Build_footer_text.vi"/>
 		<Item Name="check_command_type.vi" Type="VI" URL="../auto-mode-scripting/check_command_type.vi"/>
 		<Item Name="Close_all_queues.vi" Type="VI" URL="../auto-mode-scripting/Close_all_queues.vi"/>
+		<Item Name="command-status-ae.vi" Type="VI" URL="../auto-mode-scripting/command-status-ae.vi"/>
 		<Item Name="command_code_type.vi" Type="VI" URL="../auto-mode-scripting/command_code_type.vi"/>
 		<Item Name="Dummy_process_loops.vi" Type="VI" URL="../auto-mode-scripting/Dummy_process_loops.vi"/>
 		<Item Name="Footer_cluster.ctl" Type="VI" URL="../auto-mode-scripting/Footer_cluster.ctl"/>
@@ -64,6 +65,7 @@
 	<Item Name="unittest" Type="Folder">
 		<Item Name="check_for_execution_stop_test.vi" Type="VI" URL="../auto-mode-scripting/unittest/check_for_execution_stop_test.vi"/>
 		<Item Name="get_script_body_test.vi" Type="VI" URL="../auto-mode-scripting/unittest/get_script_body_test.vi"/>
+		<Item Name="map_tool_to_subsystem-test.vi" Type="VI" URL="../auto-mode-scripting/unittest/map_tool_to_subsystem-test.vi"/>
 		<Item Name="Script_1.txt" Type="Document" URL="../auto-mode-scripting/unittest/Script_1.txt"/>
 		<Item Name="test_g4_type.vi" Type="VI" URL="../auto-mode-scripting/unittest/test_g4_type.vi"/>
 		<Item Name="test_get_tool_from_line.vi" Type="VI" URL="../auto-mode-scripting/unittest/test_get_tool_from_line.vi"/>
