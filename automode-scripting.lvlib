@@ -19,6 +19,13 @@
 		<Item Name="Motion_Profile_Outputs.ctl" Type="VI" URL="../auto-mode-scripting/Drive/Motion_Profile_Outputs.ctl"/>
 		<Item Name="Profile_generator_core.vi" Type="VI" URL="../auto-mode-scripting/Drive/Profile_generator_core.vi"/>
 	</Item>
+	<Item Name="footer" Type="Folder">
+		<Item Name="Build_footer_text.vi" Type="VI" URL="../auto-mode-scripting/Build_footer_text.vi"/>
+		<Item Name="Footer_cluster.ctl" Type="VI" URL="../auto-mode-scripting/Footer_cluster.ctl"/>
+		<Item Name="Parse_error_array.vi" Type="VI" URL="../auto-mode-scripting/Parse_error_array.vi"/>
+		<Item Name="read-error-invalid-queues.vi" Type="VI" URL="../auto-mode-scripting/footer/read-error-invalid-queues.vi"/>
+		<Item Name="Update_footer.vi" Type="VI" URL="../auto-mode-scripting/Update_footer.vi"/>
+	</Item>
 	<Item Name="home" Type="Folder">
 		<Item Name="lvuser" Type="Folder">
 			<Item Name="auto" Type="Folder">
@@ -34,12 +41,10 @@
 	<Item Name="Main" Type="Folder">
 		<Item Name="Auto selection sub.vi" Type="VI" URL="../auto-mode-scripting/Auto selection sub.vi"/>
 		<Item Name="auto_script_parser.vi" Type="VI" URL="../auto-mode-scripting/auto_script_parser.vi"/>
-		<Item Name="Build_footer_text.vi" Type="VI" URL="../auto-mode-scripting/Build_footer_text.vi"/>
 		<Item Name="Close_all_queues.vi" Type="VI" URL="../auto-mode-scripting/Close_all_queues.vi"/>
 		<Item Name="command-status-ae.vi" Type="VI" URL="../auto-mode-scripting/command-status-ae.vi"/>
 		<Item Name="command_code_type.vi" Type="VI" URL="../auto-mode-scripting/command_code_type.vi"/>
 		<Item Name="Dummy_process_loops.vi" Type="VI" URL="../auto-mode-scripting/Dummy_process_loops.vi"/>
-		<Item Name="Footer_cluster.ctl" Type="VI" URL="../auto-mode-scripting/Footer_cluster.ctl"/>
 		<Item Name="get _g4_time.vi" Type="VI" URL="../auto-mode-scripting/get _g4_time.vi"/>
 		<Item Name="get_g4_type.vi" Type="VI" URL="../auto-mode-scripting/get_g4_type.vi"/>
 		<Item Name="Get_process_notifications.vi" Type="VI" URL="../auto-mode-scripting/Get_process_notifications.vi"/>
@@ -49,13 +54,11 @@
 		<Item Name="map_queues_to_t.vi" Type="VI" URL="../auto-mode-scripting/map_queues_to_t.vi"/>
 		<Item Name="map_tool_to_subsystem.vi" Type="VI" URL="../auto-mode-scripting/map_tool_to_subsystem.vi"/>
 		<Item Name="Open_script.vi" Type="VI" URL="../auto-mode-scripting/Open_script.vi"/>
-		<Item Name="Parse_error_array.vi" Type="VI" URL="../auto-mode-scripting/Parse_error_array.vi"/>
 		<Item Name="Script_Template.txt" Type="Document" URL="../auto-mode-scripting/Script_Template.txt"/>
 		<Item Name="Scripting_Example.vi" Type="VI" URL="../auto-mode-scripting/Scripting_Example.vi"/>
 		<Item Name="Set_up_process_notifiers.vi" Type="VI" URL="../auto-mode-scripting/Set_up_process_notifiers.vi"/>
 		<Item Name="setup_process_queues.vi" Type="VI" URL="../auto-mode-scripting/setup_process_queues.vi"/>
 		<Item Name="Subsystem_command_filter.vi" Type="VI" URL="../auto-mode-scripting/Subsystem_command_filter.vi"/>
-		<Item Name="Update_footer.vi" Type="VI" URL="../auto-mode-scripting/Update_footer.vi"/>
 	</Item>
 	<Item Name="Self-test" Type="Folder">
 		<Item Name="Drive_self_test.vi" Type="VI" URL="../auto-mode-scripting/Self-test/Drive_self_test.vi"/>
