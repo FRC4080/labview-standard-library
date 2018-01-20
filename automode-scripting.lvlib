@@ -20,11 +20,11 @@
 		<Item Name="Profile_generator_core.vi" Type="VI" URL="../auto-mode-scripting/Drive/Profile_generator_core.vi"/>
 	</Item>
 	<Item Name="footer" Type="Folder">
-		<Item Name="Build_footer_text.vi" Type="VI" URL="../auto-mode-scripting/Build_footer_text.vi"/>
-		<Item Name="Footer_cluster.ctl" Type="VI" URL="../auto-mode-scripting/Footer_cluster.ctl"/>
+		<Item Name="Build_footer_text.vi" Type="VI" URL="../auto-mode-scripting/footer/Build_footer_text.vi"/>
+		<Item Name="Footer_cluster.ctl" Type="VI" URL="../auto-mode-scripting/footer/Footer_cluster.ctl"/>
 		<Item Name="Parse_error_array.vi" Type="VI" URL="../auto-mode-scripting/Parse_error_array.vi"/>
 		<Item Name="read-error-invalid-queues.vi" Type="VI" URL="../auto-mode-scripting/footer/read-error-invalid-queues.vi"/>
-		<Item Name="Update_footer.vi" Type="VI" URL="../auto-mode-scripting/Update_footer.vi"/>
+		<Item Name="Update_footer.vi" Type="VI" URL="../auto-mode-scripting/footer/Update_footer.vi"/>
 	</Item>
 	<Item Name="home" Type="Folder">
 		<Item Name="lvuser" Type="Folder">
